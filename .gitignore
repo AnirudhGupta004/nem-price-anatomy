@@ -15,6 +15,7 @@ Thumbs.db
 # Private drafting aids for the research note (only the finished note PDF is published)
 note/key_numbers.md
 note/supplementary_methods_and_events.md
+note/image/
 
 # Project spec (personal planning doc)
 *.pdf
