@@ -8,15 +8,13 @@ Where does the value in the National Electricity Market actually sit, and what d
 4. **Spike anatomy:** what caused the biggest price events?
 5. **NSW vs SA:** why is SA so much more volatile?
 
-**Research note:** [note/](note/) _(link to the PDF once published)_
+**Research note:** [note/research_note.md](note/research_note.md)
 
 ## Headline findings
 
-<!-- Pick your 3 findings from the notebooks, each with a number. Keep claims exactly as strong as the data. -->
-
-1. _…_
-2. _…_
-3. _…_
+1. **About a third of the year's value comes from about 88 hours.** In FY25 the most expensive 1% of intervals carried 35% of NSW's annual energy value and 38% of SA's; a $300 cap would have paid back 32% and 35% of the year's energy cost.
+2. **Negative prices are more frequent but shallower.** Hours at or below $0 rose from 405 to 1,091 in NSW and from 2,058 to 2,835 in SA (FY23 → FY26), while the median negative price rose to about −$11.
+3. **SA's volatility comes from its wind and solar share.** Utility wind and solar cover ~70% of SA's demand against ~25% of NSW's; when they cover under 10% of demand, SA's price exceeds $300 in 28% of intervals, against 5% for NSW.
 
 ![Cumulative share of annual energy value vs share of intervals, NSW1 and SA1, FY23–FY26](charts/03_concentration.png)
 
