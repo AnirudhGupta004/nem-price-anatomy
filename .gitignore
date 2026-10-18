@@ -1,0 +1,21 @@
+# Raw and clean AEMO data stay local: large, and re-downloadable via src/download.py
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Private drafting aids for the research note (only the finished note PDF is published)
+note/key_numbers.md
+note/supplementary_methods_and_events.md
+
+# Project spec (personal planning doc)
+*.pdf
+!note/*.pdf
