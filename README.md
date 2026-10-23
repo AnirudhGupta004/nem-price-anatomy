@@ -8,7 +8,7 @@ Where does the value in the National Electricity Market actually sit, and what d
 4. **Spike anatomy:** what caused the biggest price events?
 5. **NSW vs SA:** why is SA so much more volatile?
 
-**Research note:** [note/research_note.md](note/research_note.md)
+**Research note:** [note/research_note.md](note/research_note.md) ([PDF](note/research_note.pdf)) · **LinkedIn summary:** [note/linkedin_carousel.pdf](note/linkedin_carousel.pdf)
 
 ## Headline findings
 
