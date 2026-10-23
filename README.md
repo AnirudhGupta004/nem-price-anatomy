@@ -101,7 +101,7 @@ FY23–FY27 values are from the AEMC's published schedules; FY22 matches the max
 - **Row count:** 1,826 days × 288 intervals per region, no duplicates, no gaps.
 - **External cross-check:** AEMO's [Quarterly Energy Dynamics Q2 2025](https://www.aemo.com.au/-/media/files/major-publications/qed/2025/qed-q2-2025.pdf) reports $161/MWh (NSW) and $140/MWh (SA); this pipeline's time-weighted averages are $160.68 and $140.21. QED's regional averages are time-weighted; the demand-weighted averages for the same quarter are ~$30 higher.
 - **Range check:** every price sits between the floor and that FY's cap.
-- **Excel cross-check:** _to do — recompute the October 2021 NSW1 average ($57.12) by hand from the raw AEMO file._
+- **Excel cross-check:** October 2021 NSW1 recomputed by hand in Excel from the raw AEMO `DISPATCHPRICE` file: 8,928 intervals, average $57.12/MWh, matching the pipeline to the cent.
 
 ### Limitations
 
